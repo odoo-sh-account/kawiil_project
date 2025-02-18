@@ -2,3 +2,7 @@
         path = odoo-trainings/kawiil_base
         url = git@github.com:odoo-trainings/kawiil_base.git
         branch = 18.0
+[submodule "odoo-sh-account/motorcycle_financing"]
+	path = odoo-sh-account/motorcycle_financing
+	url = https://github.com/odoo-sh-account/motorcycle_financing.git
+	branch = production
